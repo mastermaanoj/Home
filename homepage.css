@@ -76,7 +76,26 @@ body
 {
 	display:inline;
 	color: #6600cc;
-}/*ASK MS.XIE ABOUT THIS*/
+}
+.list01
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.l1
+{
+	display:inline;
+}
+.l2
+{
+	display:inline;
+}
+.l3
+{
+	display:inline;
+}
+
 
 
 
