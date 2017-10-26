@@ -1,0 +1,103 @@
+.heading01
+{
+	text-align:center;
+	font-size:80px;
+}/*CHANGE THE HEADING AND MAKE IT NICE*/
+.paragraph01
+{
+	font-family:Calibri;
+	font-size:30px;
+	color:#0033cc;
+	text-align:justify;
+	margin-right:50px;
+	margin-left:50px;
+} /*REMEMBER TO CHANGE*/
+body
+{
+	background-color:White;
+}/*REMEMBER TO CHANGE*/
+.paragraph02
+{
+	font-family:Calibri;
+	font-size:30px;
+	color:#0033cc;
+	margin-right:50px;
+	margin-left:50px;
+}
+.image01
+{
+	display:block;
+	margin:auto;
+	text-align:center;
+}/* This is the Pokemon logo*/
+.list02
+{
+	font-size:30px;
+	text-align:left;
+	margin-right:50px;
+	margin-left:50px;
+}/*these are the pokemon types*/
+.paragraph03
+{
+	font-family:Calibri;
+	font-size:30px;
+	color:#0033cc;
+	margin-right:50px;
+	margin-left:50px;
+}
+.paragraph04
+{
+	font-family:Calibri;
+	font-size:30px;
+	color:#0033cc;
+	margin-right:50px;
+	margin-left:50px;
+}
+.image02
+{
+	float:right;
+	margin-right:50px;
+	margin-left:50px;
+	width:70%;
+}/*type effective ness chart*/
+.image03
+{
+	float:right;
+	margin-right:50px;
+	margin-left:50px;
+}/*pokemon types*/
+.image04
+{
+	float:right;
+	margin-right:50px;
+	margin-left:50px;
+}/*eeveelution*/
+.list01
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.l1
+{
+	display:inline;
+}
+.l2
+{
+	display:inline;
+}
+.l3
+{
+	display:inline;
+}
+body
+{
+	background-color:#ccd9ff
+}
+h1
+{
+	color:#002080;
+}
+
+
+
